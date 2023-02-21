@@ -1,0 +1,76 @@
+
+
+
+.header{
+color: rgb(0, 118, 0);
+}
+
+.header1{
+    font-size: 30px;
+}
+
+
+
+.header4{
+    
+}
+.header5{
+    color: black;
+    border-radius: 30px;
+    padding: 8px 20px;
+    background-color: rgb(255, 216, 20);
+    border: none;
+}
+.header6{
+    color: black;
+    border-radius: 30px;
+    padding: 8px 20px;
+    background-color: rgb(255, 164, 28);
+    border: none;
+}
+
+.es{
+    color: rgb(0,113, 133);
+}
+br
+
+.fizikuripiri{
+    color: aquamarine;
+}
+    
+
+
+
+.wealth{
+    color: black;
+    margin-left: 15px;
+    
+}
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.headerbog{
+    padding-left: 50px;
+}
+p{
+    margin-left: 45px;
+    color: black;
+    
+    margin-bottom:  50px;
+    
+}
+.bog1{
+    color: white;
+    background-color: rgb(250, 122, 31);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 40px;
+    
+}
+.classsss {
+display: inline;
+padding: 1rem;
+}
